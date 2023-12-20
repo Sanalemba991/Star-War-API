@@ -9,7 +9,7 @@ export function StarshiptDetailsPage() {
 
   return (
     <div>
-      <h1>Planet Details</h1>
+      <h1>Planet Maming</h1>
       <h4>{data.MGLT}</h4>
       <p>species: {data.cargo_capacity}</p>
       <p>director: {data.created}</p>
